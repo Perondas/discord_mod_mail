@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "autosharded",
+        "builtins",
+        "curr",
+        "dashmap",
+        "dateparser",
+        "dotenv",
+        "itemcount",
+        "itertools",
+        "mysql",
+        "publishedfiledetails",
+        "publishedfileids",
+        "reqwest",
+        "tokio"
+    ],
+    "rust-analyzer.linkedProjects": [
+        "./bot/Cargo.toml"
+    ]
+}
